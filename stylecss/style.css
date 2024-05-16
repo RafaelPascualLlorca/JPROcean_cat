@@ -23,6 +23,10 @@ p{
     padding-left: 10%;
 }
 
+.noticias_pt2 {
+    color: rgb(18, 180, 220);
+}
+
 #jprocean, #inicio, #quienes_somos, #noticias, #nuestro_trabajo, #boton {
     color: white;
 }
